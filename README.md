@@ -66,6 +66,8 @@ update_lstm('C:/Users/BRIGHT/Desktop/ZENOTEC_2/Input/TrainingData_Update.csv','C
 ```python
 forecast_with_lstm('C:/Users/BRIGHT/Desktop/ZENOTEC_2/Input/TestDataNoOutput.csv','C:/Users/BRIGHT/Desktop/ZENOTEC_2/Model/20180906020843.h5')
 ```
+### Software Arhitecture
+![png](model_architecture.png)
 
 ## Author
 
